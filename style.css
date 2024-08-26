@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 4vh;
+}
+button, input{
+    background-color: pink;
+    color: black;
+    border-radius: 20vh;
+    font-size: 2vh;
+}
+::placeholder{
+    text-align: center;
+    color: black;
+    font-size: 2vh;
+}
+nav{
+    font-size: 3vh;
+}
+a{
+    text-decoration: none;
+    color:yellow;
+}
